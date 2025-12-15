@@ -1,0 +1,30 @@
+#box{
+    background-color :chartreuse;
+}
+.heading{
+    color: red;
+}
+h2,h3{
+    color:aquamarine;
+}
+p{
+     text-align: start;
+     text-decoration: blueviolet underline;
+     font-weight: 900;
+     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: 10px;
+    line-height: 3ch;
+        height: 100px;
+    background-color: pink
+
+}
+h1{
+    text-align: center;
+    font-weight: 900;
+    height: 100px;
+    background-color: pink;
+    width:100px
+}
+#outer{
+    font-size: large;
+}
